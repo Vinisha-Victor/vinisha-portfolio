@@ -34,7 +34,7 @@ export default function App() {
       <Contact />
       <AIGuide />
       <footer className="footer">
-        <p>© 2025 <span className="accent">Vinisha</span>. Crafted with code.</p>
+        <p>© 2026 <span className="accent">Vinisha</span>. Crafted with code.</p>
         <p className="muted">B.Tech CS · Asansol Engineering College</p>
       </footer>
     </div>
